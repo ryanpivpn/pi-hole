@@ -112240,7 +112240,6 @@ m.webtrends.com
 m.xhamster.com
 m.xiachufang.com
 m.xp1.ru4.com
-m.xvideos.com
 m.xxsy.net
 m.yobt.com
 m.zeroredirect.com
@@ -167545,7 +167544,6 @@ static.williamhill.com
 static.wooboo.com.cn
 static.woopra.com
 static.wywy.com
-static.xvideos.com
 static.yieldmo.com
 static.youmi.net
 static.zanox.com
@@ -200191,7 +200189,6 @@ www.xuk.ru
 www.xurl.es
 www.xvds.com
 www.xvideohost.com
-www.xvideos.com
 www.xvideoslive.com
 www.xvika.net
 www.xvika.org
@@ -202097,7 +202094,6 @@ xved32.com
 xvgaoke.cn
 xvideocodec.com
 xvideohost.com
-xvideos.com
 xvideosbay.com
 xvideosporn.biz
 xvideossex.com
