@@ -1,2 +1,2 @@
-# ryanpivpn.github.io
+# pi-hole
 pihole lists
