@@ -1,2 +1,3 @@
 https://ryanpivpn.github.io/pihole/MOAABedit.txt
 https://ryanpivpn.github.io/pihole/Anudeep-Youtube.txt
+https://ryanpivpn.github.io/pihole/Quidsup-notrack-trackers.txt
