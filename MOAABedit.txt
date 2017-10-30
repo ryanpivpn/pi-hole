@@ -17776,15 +17776,10 @@ amazon-survey.biz
 amazon-us.net
 amazon-versand.top
 amazon.adsonar.com
-amazon.at
-amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.co.uk.security-check.ga
 amazon.com-ap.singin.redfac.com
 amazon.com.aubreywaite.com
 amazon.cwl25i.ml
-amazon.de
 amazon.de-customer-line0405.ga
 amazon.de-kundencenter-konto1065188.com
 amazon.de-kundencenter-konto703226.de
@@ -17798,7 +17793,6 @@ amazon.de.konto-35910205.de
 amazon.de.konto-35910206.de
 amazon.de.konto-45942102.de
 amazon.ej195g.cf
-amazon.fr
 amazon.johnbulltyres.com
 amazon.ml5k2.ml
 amazon.nj60l9.cf
