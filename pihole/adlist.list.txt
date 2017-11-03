@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
-https://ryanpivpn.github.io/MOAABedit.txt
 https://ryanpivpn.github.io/Anudeep-Youtube.txt
-https://ryanpivpn.github.io/Quidsup-notrack-trackers.txt
 https://ryanpivpn.github.io/Anudeep-Adservers.txt
+https://ryanpimoaab.github.io/lists/MOAABedit.txt
+https://ryanpimoaab.github.io/lists/Quidsup-notrack-trackers.txt
